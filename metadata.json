@@ -1,0 +1,6 @@
+{
+  "name": "El Tiempo en Extremadura",
+  "description": "Monitoreo en tiempo real de la temperatura y clima de Cáceres, Badajoz, Coria, Plasencia, Navalmoral de la Mata, Valencia de Alcántara, Trujillo y Zorita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
